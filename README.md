@@ -1,2 +1,2 @@
 # brand
-This web page is made with html, css and tailwind.
+Used html, css and tailwind in this Project.
